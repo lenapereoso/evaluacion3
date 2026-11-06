@@ -234,7 +234,7 @@
                 margin: 1rem -1rem;
                 width: calc(100% + 2rem);
                 height: auto;
-                aspect-ratio: 880 / 580; /* debe coincidir con el viewBox de viz.svg */
+                aspect-ratio: 1080 / 580; /* debe coincidir con el viewBox de viz.svg */
             }
 
             svg.grafico {
@@ -311,11 +311,11 @@
 
             <h3 id="universidades">Las mejores universidades del mundo según <abbr title="Quacquarelli Symonds">QS</abbr></h3>
 
-            <p>En el ranking institucional, la Pontificia Universidad Católica de Chile (puesto 119) y la Universidad de Chile (puesto 185) figuran entre las cinco mejores de Hispanoamérica. Con 17 instituciones entre las 1.504 evaluadas, Chile ocupa además el quinto lugar de América en número de instituciones representadas. Estos resultados se miden, entre otros indicadores, por prestigio académico, valoración de los empleadores, cantidad de docentes por estudiante e impacto de la investigación. Son fruto de políticas públicas que hoy enfrentan la perspectiva de recortes presupuestarios. Dado que indicadores como la cantidad de docentes por estudiante y el impacto de la investigación dependen en parte del financiamiento, una reducción de recursos podría reflejarse en las próximas ediciones del ranking. Entre las 200 primeras solo figuran dos instituciones chilenas, y la distancia con la tercera, la Universidad de Santiago (puesto 551), es grande.</p>
+            <p>En el ranking institucional, la Pontificia Universidad Católica de Chile (puesto 119) y la Universidad de Chile (puesto 185) figuran entre las cinco mejores de Hispanoamérica. Con 17 instituciones entre las 1.504 evaluadas, Chile ocupa además el quinto lugar de América en número de instituciones representadas. Estos resultados se miden, entre otros indicadores, por prestigio académico, valoración de los empleadores, cantidad de docentes por estudiante e impacto de la investigación. Son fruto de políticas públicas que hoy enfrentan la perspectiva de recortes presupuestarios. Aun así, la brecha dentro del sistema chileno es amplia: solo la <abbr>PUC</abbr> y la Universidad de Chile están entre las 200 mejores del mundo, la siguiente, la Universidad de Santiago de Chile, aparece recién en el puesto 551, y 10 de las 17 instituciones chilenas se ubican del puesto 1.001 hacia abajo. Por eso, más que una tendencia general, el buen desempeño del país descansa en un grupo muy reducido de universidades.</p>
 
             <h4>América, Europa y otros continentes</h4>
 
-            <p>El siguiente gráfico muestra cómo se distribuyen, por continente y país, las 100 mejores universidades del mundo. En el top 100 hay empates en los puestos 92, 97, 98 y 100. Europa es el continente con más presencia, seguida de América, Asia y Oceanía. Por país destacan Estados Unidos y el Reino Unido, mientras que en América Latina solo aparece Argentina, con la UBA. Chile y el resto de Hispanoamérica quedan fuera de este grupo.</p>
+            <p>El siguiente gráfico muestra cómo se distribuyen, por continente y país, las 100 mejores universidades del mundo. Como el puesto 100 tiene empates, ese grupo reúne 102 instituciones: 37 de Europa, 31 de América, 24 de Asia y 10 de Oceanía, sin ninguna de África. Estados Unidos (26) y el Reino Unido (16) concentran más de un tercio del total, y entre ambos superan a todos los países asiáticos juntos. Dentro de América, la presencia se limita a Estados Unidos (26), Canadá (4) y Argentina (1).</p>
 
             <object data="viz.svg" type="image/svg+xml">Tu navegador no soporta SVG</object>
 
@@ -324,7 +324,7 @@
 
             <h4>Chile en América</h4>
 
-            <p>El continente americano reúne 322 de las 1.504 instituciones consideradas en el ranking. Su distribución por país es la siguiente:</p>
+            <p>El continente americano reúne 332 de las 1.504 instituciones consideradas en el ranking. Su distribución por país es la siguiente:</p>
 
             <canvas id="identidad"></canvas>
 
@@ -347,104 +347,104 @@
                     <tr>
                         <th scope="row">119</th>
                         <td>Pontificia Universidad Católica de Chile (<abbr>PUC</abbr>)</td>
-                        <td>✓</td>
-                        <td>✓</td>
+                        <td>✅</td>
+                        <td>✅</td>
                     </tr>
                     <tr>
                         <th scope="row">185</th>
                         <td>Universidad de Chile (<abbr>UCh</abbr>)</td>
-                        <td>✓</td>
-                        <td>✓</td>
+                        <td>✅</td>
+                        <td>✅</td>
                     </tr>
                     <tr>
                         <th scope="row">551</th>
                         <td>Universidad de Santiago de Chile (<abbr>USACH</abbr>)</td>
-                        <td>✓</td>
-                        <td>✗</td>
+                        <td>✅</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">655</th>
-                        <td>Universidad de Concepción</td>
-                        <td>✗</td>
-                        <td>✗</td>
+                        <td>Universidad Adolfo Ibáñez (<abbr>UAI</abbr>)</td>
+                        <td>❌</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">662</th>
-                        <td>Universidad Adolfo Ibáñez (<abbr>UAI</abbr>)</td>
-                        <td>✓</td>
-                        <td>✗</td>
+                        <td>Universidad de Concepción</td>
+                        <td>✅</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">851-900</th>
                         <td>Pontificia Universidad Católica de Valparaíso (<abbr>PUCV</abbr>)</td>
-                        <td>✓</td>
-                        <td>✓</td>
+                        <td>✅</td>
+                        <td>✅</td>
                     </tr>
                     <tr>
                         <th scope="row">901-950</th>
                         <td>Universidad de los Andes</td>
-                        <td>✗</td>
-                        <td>✗</td>
+                        <td>❌</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">1001-1200</th>
                         <td>Universidad Andrés Bello (<abbr>UNAB</abbr>)</td>
-                        <td>✓</td>
-                        <td>✓</td>
+                        <td>✅</td>
+                        <td>✅</td>
                     </tr>
                     <tr>
                         <th scope="row">1001-1200</th>
                         <td>Universidad Austral de Chile (<abbr>UACh</abbr>)</td>
-                        <td>✓</td>
-                        <td>✓</td>
+                        <td>✅</td>
+                        <td>✅</td>
                     </tr>
                     <tr>
                         <th scope="row">1001-1200</th>
                         <td>Universidad Técnica Federico Santa María (<abbr>UTFSM</abbr>)</td>
-                        <td>✓</td>
-                        <td>✗</td>
+                        <td>✅</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">1201-1400</th>
                         <td>Universidad de la Frontera (<abbr>UFRO</abbr>)</td>
-                        <td>✗</td>
-                        <td>✗</td>
+                        <td>❌</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">1201-1400</th>
                         <td>Universidad de Talca</td>
-                        <td>✓</td>
-                        <td>✗</td>
+                        <td>✅</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">1201-1400</th>
                         <td>Universidad del Desarrollo (<abbr>UDD</abbr>)</td>
-                        <td>✓</td>
-                        <td>✗</td>
+                        <td>✅</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">1201-1400</th>
                         <td>Universidad Diego Portales (<abbr>UDP</abbr>)</td>
-                        <td>✓</td>
-                        <td>✓</td>
+                        <td>✅</td>
+                        <td>✅</td>
                     </tr>
                     <tr>
                         <th scope="row">1401+</th>
                         <td>Universidad Católica del Norte</td>
-                        <td>✗</td>
-                        <td>✗</td>
+                        <td>❌</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">1401+</th>
                         <td>Universidad de Tarapacá (<abbr>UTA</abbr>)</td>
-                        <td>✓</td>
-                        <td>✗</td>
+                        <td>✅</td>
+                        <td>❌</td>
                     </tr>
                     <tr>
                         <th scope="row">1401+</th>
                         <td>Universidad de Valparaíso (<abbr>UV</abbr>)</td>
-                        <td>✓</td>
-                        <td>✗</td>
+                        <td>✅</td>
+                        <td>❌</td>
                     </tr>
                 </tbody>
             </table>
@@ -456,13 +456,47 @@
                 institucional.
             </p>
 
-            <svg class="grafico" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 580" role="img" aria-label="Espacio reservado para el gráfico interactivo de comparación">
-                <rect width="880" height="580" fill="silver" />
-                <text x="10" y="40">[Reemplazar por un gráfico interactivo como el trabajado en las clases 10 y 11.]</text>
-                <text x="10" y="70">Debe comparar cinco dimensiones de la PUC, la UCh y la UDD. Nada más.</text>
-            </svg>
+            <svg class="grafico" id="radar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 580" role="img" aria-label="Gráfico radar que compara cinco dimensiones de la PUC, la Universidad de Chile y la UDD en el QS World University Rankings 2027">
+  <style>
+    #radar text { font-family: var(--font-sans); fill: rgb(60,60,60); }
+    #radar .grid  { fill: none; stroke: lightgray; }
+    #radar .axis  { stroke: #000; }
+    #radar .label { font-size: 12px; text-anchor: middle; dominant-baseline: middle; }
+    #radar .tick  { font-size: 10px; text-anchor: end; dominant-baseline: middle; }
+    #radar .area  { fill-opacity: .1; stroke-width: 1.5; transition: all ease .4s; }
+    #radar .area:hover { fill-opacity: .4; }
+    #radar .legend-text { font-size: 12px; }
+    #radar .legend-title { font-size: 13px; font-weight: bold; }
+    #radar .nota-svg { font-size: 11px; fill: rgba(90,90,90,1); }
+  </style>
+  <g transform="translate(340 300)">
+    <g class="grid"><circle r="0"/><circle r="24"/><circle r="48"/><circle r="72"/><circle r="96"/><circle r="120"/><circle r="144"/><circle r="168"/><circle r="192"/><circle r="216"/><circle r="240"/></g>
+    <g class="axis"><line x2="0.0" y2="-240.0"/><line x2="228.3" y2="-74.2"/><line x2="141.1" y2="194.2"/><line x2="-141.1" y2="194.2"/><line x2="-228.3" y2="-74.2"/></g>
+    <g><text class="label" x="0.0" y="-250.0">Reputación académica</text><text class="label" x="237.8" y="-77.3">Reputación entre empleadores</text><text class="label" x="147.0" y="202.3">Académicos por estudiante</text><text class="label" x="-147.0" y="202.3">Resultados de empleabilidad</text><text class="label" x="-237.8" y="-77.3">Red internacional de investigación</text></g>
+    <g class="tick"><path class="axis" fill="none" d="M-6-240H0V0H-6"/><text x="-9" y="0">0%</text><text x="-9" y="-24">10%</text><text x="-9" y="-48">20%</text><text x="-9" y="-72">30%</text><text x="-9" y="-96">40%</text><text x="-9" y="-120">50%</text><text x="-9" y="-144">60%</text><text x="-9" y="-168">70%</text><text x="-9" y="-192">80%</text><text x="-9" y="-216">90%</text><text x="-9" y="-240">100%</text></g>
+    <g fill="#FEC60D" stroke="#FEC60D" id="puc">
+      <polygon class="area" points="0.0,-235.4 220.5,-71.6 54.0,74.4 -140.8,193.8 -181.9,-59.1"><title>Pontificia Universidad Católica de Chile (PUC): Reputación académica 98,1%; Reputación entre empleadores 96,6%; Académicos por estudiante 38,3%; Resultados de empleabilidad 99,8%; Red internacional de investigación 79,7%</title></polygon>
+      <circle cx="0.0" cy="-235.4" r="2" stroke="none"/><circle cx="220.5" cy="-71.6" r="2" stroke="none"/><circle cx="54.0" cy="74.4" r="2" stroke="none"/><circle cx="-140.8" cy="193.8" r="2" stroke="none"/><circle cx="-181.9" cy="-59.1" r="2" stroke="none"/>
+    </g>
+    <g fill="#1F5592" stroke="#1F5592" id="uch">
+      <polygon class="area" points="0.0,-220.8 194.2,-63.1 14.0,19.2 -135.0,185.8 -175.3,-57.0"><title>Universidad de Chile (UCh): Reputación académica 92%; Reputación entre empleadores 85,1%; Académicos por estudiante 9,9%; Resultados de empleabilidad 95,7%; Red internacional de investigación 76,8%</title></polygon>
+      <circle cx="0.0" cy="-220.8" r="2" stroke="none"/><circle cx="194.2" cy="-63.1" r="2" stroke="none"/><circle cx="14.0" cy="19.2" r="2" stroke="none"/><circle cx="-135.0" cy="185.8" r="2" stroke="none"/><circle cx="-175.3" cy="-57.0" r="2" stroke="none"/>
+    </g>
+    <g fill="#d62728" stroke="#d62728" id="udd">
+      <polygon class="area" points="0.0,-33.8 40.6,-13.2 23.1,31.8 -10.4,14.4 -58.4,-19.0"><title>Universidad del Desarrollo (UDD): Reputación académica 14,1%; Reputación entre empleadores 17,8%; Académicos por estudiante 16,4%; Resultados de empleabilidad 7,4%; Red internacional de investigación 25,6%</title></polygon>
+      <circle cx="0.0" cy="-33.8" r="2" stroke="none"/><circle cx="40.6" cy="-13.2" r="2" stroke="none"/><circle cx="23.1" cy="31.8" r="2" stroke="none"/><circle cx="-10.4" cy="14.4" r="2" stroke="none"/><circle cx="-58.4" cy="-19.0" r="2" stroke="none"/>
+    </g>
+  </g>
+  <g transform="translate(700 60)"><text class="legend-title">Institución</text>
+    <rect y="16.0" width="15" height="15" fill="#FEC60D"/><text class="legend-text" x="20" y="28.5">PUC</text>
+    <rect y="37.25" width="15" height="15" fill="#1F5592"/><text class="legend-text" x="20" y="49.75">UCh</text>
+    <rect y="58.5" width="15" height="15" fill="#d62728"/><text class="legend-text" x="20" y="71.0">UDD</text>
+  </g>
+  <text class="nota-svg" x="700" y="560">Porcentaje del puntaje máximo (100 %).</text>
+  <text class="nota-svg" x="700" y="574">Fuente: QS World University Rankings 2027.</text>
+</svg>
 
-            <p>La comparación de las dimensiones <strong>[continuar texto]</strong></p>
+            <p>La comparación de las dimensiones muestra una distancia amplia entre las dos universidades tradicionales y la <abbr>UDD</abbr>. La <abbr>PUC</abbr> lidera las cinco: reputación académica (98,1), reputación entre empleadores (96,6), académicos por estudiante (38,3), resultados de empleabilidad (99,8) y red internacional de investigación (79,7). La <abbr>UCh</abbr> la sigue de cerca en cuatro de ellas, con diferencias menores a 5 puntos en empleabilidad y en red internacional de investigación (95,7 y 76,8), pero queda muy atrás en académicos por estudiante (9,9), donde incluso la supera la <abbr>UDD</abbr> (16,4). Ese es el único indicador en que la <abbr>UDD</abbr> queda por sobre la <abbr>UCh</abbr>. En el resto, sus puntajes van de 7,4 en empleabilidad a 25,6 en red internacional de investigación. Cabe advertir que las dos reputaciones provienen de encuestas a académicos y empleadores, por lo que son las dimensiones más subjetivas del conjunto.</p>
 
             <hr>
 
@@ -476,7 +510,7 @@
             </p>
 
             <h4>América</h4>
-            <p>Escuelas de Arte y Diseño de países americanos entre las 100 mejores.</p>
+            <p>Escuelas de Arte y Diseño de países americanos entre las 100 mejores, más la Universidad del Desarrollo y la Universidad de Chile, que figuran en los tramos 101-150 y 151-200.</p>
             <table>
                 <thead>
                     <tr>
@@ -584,47 +618,30 @@
                 type: "bar",
                 data: {
                     labels: [
-                        "Argentina",
-                        "Australia",
-                        "Austria",
-                        "Belgium",
-                        "Brazil",
-                        "Canada",
+                        "Estados Unidos",
+                        "Canadá",
+                        "Brasil",
+                        "México",
                         "Chile",
-                        "China (Mainland)",
+                        "Argentina",
                         "Colombia",
-                        "Czech Republic",
-                        "Denmark",
-                        "Estonia",
-                        "Finland",
-                        "France",
-                        "Germany",
-                        "Hong Kong",
-                        "India",
-                        "Ireland",
-                        "Italy",
-                        "Japan",
-                        "Malaysia",
-                        "Mexico",
-                        "Netherlands",
-                        "Saudi Arabia",
-                        "Singapore",
-                        "South Korea",
-                        "Sweden",
-                        "Switzerland",
-                        "Taiwan",
-                        "Thailand",
-                        "United Kingdom",
-                        "United States",
-                        "Vietnam",
+                        "Perú",
+                        "Ecuador",
+                        "Uruguay",
+                        "Venezuela",
+                        "Costa Rica",
+                        "Cuba",
+                        "Guatemala",
+                        "República Dominicana",
+                        "Puerto Rico",
+                        "Paraguay",
+                        "Honduras",
+                        "Panamá",
                     ],
                     datasets: [
                         {
-                            label: "Veces en el top 100",
-                            data: [
-                                2, 5, 2, 1, 1, 2, 1, 6, 1, 1, 1, 1, 1, 3, 2, 2, 1, 1, 6, 2, 2, 2, 4, 1, 3, 3, 3, 2, 1,
-                                1, 11, 24, 1,
-                            ],
+                            label: "Instituciones en el ranking",
+                            data: [184, 30, 22, 18, 17, 16, 12, 6, 6, 4, 4, 3, 2, 2, 2, 1, 1, 1, 1],
                             backgroundColor: "rgb(214, 214, 214)",
                             borderWidth: 1,
                         },
@@ -652,6 +669,7 @@
                 "Austria",
                 "Belgium",
                 "Czech Republic",
+                "Czechia",
                 "Denmark",
                 "Estonia",
                 "Finland",
