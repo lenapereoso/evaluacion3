@@ -1,0 +1,659 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="580" viewBox="0 0 1080 580">    <rect width="1080" height="580" x="0" y="0" fill="#FFFFFF" id="background" />
+    <g transform="translate(10,10)" id="viz">
+        <g id="leaves">
+            <g transform="translate(4,4)">
+                <rect id="path0" fill="#c7dfef" width="474" height="248" />
+                <clipPath id="clip0"><use xmlns:ns1="http://www.w3.org/1999/xlink" ns1:href="#path0" /></clipPath>
+                <text
+                    clip-path="url(#clip0)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        United States of America
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        1,2,5,7,15,16,20,24,27,43,45,49,51,55,58,66,70,72,74,81,92,94,100
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(480,4)">
+                <rect id="path1" fill="#c7dfef" width="90" height="198" />
+                <clipPath id="clip1"><use xmlns:ns2="http://www.w3.org/1999/xlink" ns2:href="#path1" /></clipPath>
+                <text
+                    clip-path="url(#clip1)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Canada
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        30,32,45,96
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(480,204)">
+                <rect id="path2" fill="#c7dfef" width="90" height="48" />
+                <clipPath id="clip2"><use xmlns:ns3="http://www.w3.org/1999/xlink" ns3:href="#path2" /></clipPath>
+                <text
+                    clip-path="url(#clip2)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Argentina
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        84
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(4,258)">
+                <rect id="path3" fill="#b5f4b5" width="244" height="298" />
+                <clipPath id="clip3"><use xmlns:ns4="http://www.w3.org/1999/xlink" ns4:href="#path3" /></clipPath>
+                <text
+                    clip-path="url(#clip3)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        United Kingdom
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        2,4,6,8,35,37,40,57,62,68,77,80,82,85,97
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(250,258)">
+                <rect id="path4" fill="#b5f4b5" width="166" height="80" />
+                <clipPath id="clip4"><use xmlns:ns5="http://www.w3.org/1999/xlink" ns5:href="#path4" /></clipPath>
+                <text
+                    clip-path="url(#clip4)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Switzerland
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        8,22,98
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(250,340)">
+                <rect id="path5" fill="#b5f4b5" width="166" height="107" />
+                <clipPath id="clip5"><use xmlns:ns6="http://www.w3.org/1999/xlink" ns6:href="#path5" /></clipPath>
+                <text
+                    clip-path="url(#clip5)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Germany
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        25,61,86,98
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(250,449)">
+                <rect id="path6" fill="#b5f4b5" width="166" height="107" />
+                <clipPath id="clip6"><use xmlns:ns7="http://www.w3.org/1999/xlink" ns7:href="#path6" /></clipPath>
+                <text
+                    clip-path="url(#clip6)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        France
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        34,43,73,76
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(418,258)">
+                <rect id="path7" fill="#b5f4b5" width="101" height="88" />
+                <clipPath id="clip7"><use xmlns:ns8="http://www.w3.org/1999/xlink" ns8:href="#path7" /></clipPath>
+                <text
+                    clip-path="url(#clip7)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Netherlands
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        48,60
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(521,258)">
+                <rect id="path8" fill="#b5f4b5" width="49" height="88" />
+                <clipPath id="clip8"><use xmlns:ns9="http://www.w3.org/1999/xlink" ns9:href="#path8" /></clipPath>
+                <text
+                    clip-path="url(#clip8)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Belgium
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        59
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(418,348)">
+                <rect id="path9" fill="#b5f4b5" width="91" height="148" />
+                <clipPath id="clip9"><use xmlns:ns10="http://www.w3.org/1999/xlink" ns10:href="#path9" /></clipPath>
+                <text
+                    clip-path="url(#clip9)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Sweden
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        71,82,87
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(511,348)">
+                <rect id="path10" fill="#b5f4b5" width="59" height="148" />
+                <clipPath id="clip10"><use xmlns:ns11="http://www.w3.org/1999/xlink" ns11:href="#path10" /></clipPath>
+                <text
+                    clip-path="url(#clip10)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Ireland
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        75,100
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(418,498)">
+                <rect id="path11" fill="#b5f4b5" width="75" height="58" />
+                <clipPath id="clip11"><use xmlns:ns12="http://www.w3.org/1999/xlink" ns12:href="#path11" /></clipPath>
+                <text
+                    clip-path="url(#clip11)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Italy
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        87
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(495,498)">
+                <rect id="path12" fill="#b5f4b5" width="75" height="58" />
+                <clipPath id="clip12"><use xmlns:ns13="http://www.w3.org/1999/xlink" ns13:href="#path12" /></clipPath>
+                <text
+                    clip-path="url(#clip12)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Denmark
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        90
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(576,4)">
+                <rect id="path13" fill="#ffd2aa" width="79" height="112" />
+                <clipPath id="clip13"><use xmlns:ns14="http://www.w3.org/1999/xlink" ns14:href="#path13" /></clipPath>
+                <text
+                    clip-path="url(#clip13)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Singapore
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        10,12
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(657,4)">
+                <rect id="path14" fill="#ffd2aa" width="199" height="112" />
+                <clipPath id="clip14"><use xmlns:ns15="http://www.w3.org/1999/xlink" ns15:href="#path14" /></clipPath>
+                <text
+                    clip-path="url(#clip14)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Hong Kong SAR, China
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        11,18,33,50,52
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(576,118)">
+                <rect id="path15" fill="#ffd2aa" width="164" height="163" />
+                <clipPath id="clip15"><use xmlns:ns16="http://www.w3.org/1999/xlink" ns16:href="#path15" /></clipPath>
+                <text
+                    clip-path="url(#clip15)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        China (Mainland)
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        13,14,26,36,47,90
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(576,283)">
+                <rect id="path16" fill="#ffd2aa" width="164" height="109" />
+                <clipPath id="clip16"><use xmlns:ns17="http://www.w3.org/1999/xlink" ns17:href="#path16" /></clipPath>
+                <text
+                    clip-path="url(#clip16)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Republic of Korea
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        38,42,52,65
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(742,118)">
+                <rect id="path17" fill="#ffd2aa" width="114" height="156" />
+                <clipPath id="clip17"><use xmlns:ns18="http://www.w3.org/1999/xlink" ns18:href="#path17" /></clipPath>
+                <text
+                    clip-path="url(#clip17)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Japan
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        39,64,95,97
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(742,276)">
+                <rect id="path18" fill="#ffd2aa" width="56" height="76" />
+                <clipPath id="clip18"><use xmlns:ns19="http://www.w3.org/1999/xlink" ns19:href="#path18" /></clipPath>
+                <text
+                    clip-path="url(#clip18)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Taiwan
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        54
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(800,276)">
+                <rect id="path19" fill="#ffd2aa" width="56" height="76" />
+                <clipPath id="clip19"><use xmlns:ns20="http://www.w3.org/1999/xlink" ns20:href="#path19" /></clipPath>
+                <text
+                    clip-path="url(#clip19)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Malaysia
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        56
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(742,354)">
+                <rect id="path20" fill="#ffd2aa" width="114" height="38" />
+                <clipPath id="clip20"><use xmlns:ns21="http://www.w3.org/1999/xlink" ns21:href="#path20" /></clipPath>
+                <text
+                    clip-path="url(#clip20)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Saudi Arabia
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        63
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(576,398)">
+                <rect id="path21" fill="#f2bbbc" width="252" height="158" />
+                <clipPath id="clip21"><use xmlns:ns22="http://www.w3.org/1999/xlink" ns22:href="#path21" /></clipPath>
+                <text
+                    clip-path="url(#clip21)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        Australia
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        19,22,28,29,31,40,77,79,87
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(830,398)">
+                <rect id="path22" fill="#f2bbbc" width="26" height="158" />
+                <clipPath id="clip22"><use xmlns:ns23="http://www.w3.org/1999/xlink" ns23:href="#path22" /></clipPath>
+                <text
+                    clip-path="url(#clip22)"
+                    font-family="Arial, sans-serif"
+                    font-size="10"
+                    dominant-baseline="text-before-edge"
+                    class="txt"
+                >
+                    <tspan
+                        x="3"
+                        y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                    >
+                        NZ
+                    </tspan>
+                    <tspan
+                        x="3"
+                        y="1.3em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        67
+                    </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+    <g id="legend" transform="translate(880,10)">
+        <g transform="translate(5,0)">
+            <g class="legendColor" transform="translate(0,0)">
+                <g class="legendCells" transform="translate(0,16)">
+                    <g class="cell" transform="translate(0, 0)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(199, 223, 239)" />
+                        <text
+                            class="label"
+                            transform="translate( 20, 12.5)"
+                            font-family='"Arial", sans-serif'
+                            font-size="10px"
+                        >
+                            <tspan x="0" dy="0em">Americas</tspan>
+                        </text>
+                    </g>
+                    <g class="cell" transform="translate(0, 21)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(255, 210, 170)" />
+                        <text
+                            class="label"
+                            transform="translate( 20, 12.5)"
+                            font-family='"Arial", sans-serif'
+                            font-size="10px"
+                        >
+                            <tspan x="0" dy="0em">Asia</tspan>
+                        </text>
+                    </g>
+                    <g class="cell" transform="translate(0, 42)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(181, 244, 181)" />
+                        <text
+                            class="label"
+                            transform="translate( 20, 12.5)"
+                            font-family='"Arial", sans-serif'
+                            font-size="10px"
+                        >
+                            <tspan x="0" dy="0em">Europe</tspan>
+                        </text>
+                    </g>
+                    <g class="cell" transform="translate(0, 63)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(242, 187, 188)" />
+                        <text
+                            class="label"
+                            transform="translate( 20, 12.5)"
+                            font-family='"Arial", sans-serif'
+                            font-size="10px"
+                        >
+                            <tspan x="0" dy="0em">Oceania</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text class="legendTitle" font-family='"Arial", sans-serif' font-size="12px" font-weight="bold">
+                    <tspan x="0" dy="0em">continente</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
